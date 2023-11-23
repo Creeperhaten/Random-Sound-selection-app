@@ -1,0 +1,3 @@
+Hello, this was made by Nick Watkins/Creeperhaten for fun. So have fun with it to. 
+
+Place .wav files for the app to process and randomly play according to the parameter file, make sure that all .wav files do not use spaces in the name.
